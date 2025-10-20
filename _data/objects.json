@@ -50,5 +50,31 @@
     "credit": "Museo del Oro, Bogotá",
     "thumbnail": "",
     "iiif_manifest": ""
+  },
+  {
+    "object_id": "practice1",
+    "title": "Computer",
+    "description": "A random image of a computer",
+    "creator": "Unknown Artist",
+    "period": "circa 2000",
+    "medium": "Wool",
+    "dimensions": "45 x 60 cm",
+    "location": "",
+    "credit": "",
+    "thumbnail": "",
+    "iiif_manifest": ""
+  },
+  {
+    "object_id": "pracitce2",
+    "title": "Desktop System",
+    "description": "A computer with a keyboard and unit",
+    "creator": "Unknown Artist",
+    "period": "circa 2000",
+    "medium": "Wool",
+    "dimensions": "45 x 60 cm",
+    "location": "",
+    "credit": "",
+    "thumbnail": "",
+    "iiif_manifest": ""
   }
 ]
