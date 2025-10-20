@@ -1,0 +1,16 @@
+---
+title: "This is a practice markdown."
+---
+
+Some text here.
+Trying line breaks.
+This is **bold text**.
+This is *italic text*.
+This is ***bold and italic text***.
+This is ~~strikethrough text~~.
+* first item in list
+1. ordered list
+```python
+print("Hello Telar!")
+
+    
