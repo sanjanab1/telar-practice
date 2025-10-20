@@ -57,9 +57,9 @@
     "description": "A random image of a computer",
     "creator": "Unknown Artist",
     "period": "circa 2000",
-    "medium": "Wool",
+    "medium": "photo",
     "dimensions": "45 x 60 cm",
-    "location": "",
+    "location": "internet",
     "credit": "",
     "thumbnail": "",
     "iiif_manifest": ""
@@ -70,9 +70,9 @@
     "description": "A computer with a keyboard and unit",
     "creator": "Unknown Artist",
     "period": "circa 2000",
-    "medium": "Wool",
+    "medium": "photo",
     "dimensions": "45 x 60 cm",
-    "location": "",
+    "location": "internet",
     "credit": "",
     "thumbnail": "",
     "iiif_manifest": ""
